@@ -65,6 +65,7 @@ h1{
     width: auto;
     border-radius: 15px;
     margin: 0px 150px;
+    background-color: #ffedd9;
 }
 
 p{
@@ -83,4 +84,22 @@ p{
     width: 200%;
     margin-right: 150px;
     margin-left: 10px;
+}
+hr{
+    height: 2px;
+    background: #ffedd9;
+    border-radius: 5px;
+    color: #ffedd9;
+    width: 120px;
+    margin-left: 0px;
+    
+}
+
+h3{
+    margin-top : 10px;
+    margin-bottom: 5px;
+}
+#italic{
+    font-style: italic;
+    color: #ffedd9;
 }
