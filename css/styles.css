@@ -64,6 +64,7 @@ h1{
     border: 3px solid #ffedd9;
     width: auto;
     border-radius: 15px;
+    margin: 0px 150px;
 }
 
 p{
@@ -75,7 +76,9 @@ p{
 
 .left_part{
     width: 200%;
+    margin-left: 150px;
 }
 .right_part{
     width: 200%;
+    margin-right: 150px;
 }
