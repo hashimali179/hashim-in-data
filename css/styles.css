@@ -77,8 +77,10 @@ p{
 .left_part{
     width: 200%;
     margin-left: 150px;
+    margin-right: 10px;
 }
 .right_part{
     width: 200%;
     margin-right: 150px;
+    margin-left: 10px;
 }
